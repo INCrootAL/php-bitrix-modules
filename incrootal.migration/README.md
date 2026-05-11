@@ -109,10 +109,5 @@ $app->run();
 Все команды: https://github.com/andreyryabin/incrootal.migration/blob/master/commands.txt
 
 
-Скриншоты
+Добавлена миграция смарт-процессов для Bitrix24
 -------------------------
-Админка миграций
-![bitrix-sprint-migration-1.png](https://raw.githubusercontent.com/wiki/andreyryabin/incrootal.migration/assets/bitrix-sprint-migration-1.png)
-
-Формы создания миграций
-![bitrix-sprint-migration-2.png](https://raw.githubusercontent.com/wiki/andreyryabin/incrootal.migration/assets/bitrix-sprint-migration-2.png)
